@@ -6,7 +6,7 @@ I build whatever I imagine or asked.
 
 If I get an task - I'll make it as perfect as I can
 
-My main stack is # C++ #, # Python #.
+My main stack is ## C++, Python.
 
 I've got bunch of project upcoming in future.
 
